@@ -34,7 +34,7 @@ span{
   .myFont{
     font-family: 'Amiri', serif;
   }
-  /* /////////////// Media Queries//////////////////// */
+  /* /////////////// Media Queries //////////////////// */
 @media screen and (min-width: 668px)
 {
   .footerGrid{
