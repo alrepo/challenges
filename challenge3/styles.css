@@ -1,0 +1,18 @@
+.button{
+display: block;
+height: 100px;
+width: 200px;
+background-color: #4f4898;
+color: white;
+border-radius: 20px;
+border: solid 1px;
+text-align: center;
+font-family: 'Aref Ruqaa', serif;
+font-size: 2rem;
+margin: 100px auto;
+}
+
+.button:hover{
+background-color: #eb6437;
+cursor: pointer;
+}
